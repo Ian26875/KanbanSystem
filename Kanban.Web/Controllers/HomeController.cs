@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Kanban.Web.Models;
+using Microsoft.Extensions.Logging;
 
 namespace Kanban.Web.Controllers;
 
